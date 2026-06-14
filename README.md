@@ -56,17 +56,3 @@ A comparative study was conducted across various regressors to find the optimal 
 
 ---
 
-## Installation & Usage
-To run the application locally:
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/rajeshxdatascience/Data-Driven-Real-Estate-Valuation-Recommendation-Engine.git](https://github.com/rajeshxdatascience/Data-Driven-Real-Estate-Valuation-Recommendation-Engine.git)
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Launch the Streamlit application:
-   ```bash
-   streamlit run Home.py
-
-## Developed by Rajesh | Data Science Portfolio 2026
