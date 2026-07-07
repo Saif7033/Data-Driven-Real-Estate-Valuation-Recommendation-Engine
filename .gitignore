@@ -1,0 +1,45 @@
+# Jupyter Notebooks
+Notebooks/
+*.ipynb
+.ipynb_checkpoints/
+
+# Data Gathering (Scraping scripts and HTML files)
+Data Gathering/
+*.html
+
+# macOS system files
+.DS_Store
+*.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Streamlit cache
+.streamlit/
